@@ -44,21 +44,21 @@
 - Types d'entreprises : Studios de développement
 - Exemple d'entreprise : Techland, Virtuos, etc
 
-![Behaviour Interactive](entreprise.jpg)
+![Behaviour Interactive](bhvr.png)
 
-(source de l'image : ...)
+(source de l'image : [...](https://www.gematsu.com/companies/behaviour-interactive))
 
-- Types de produits et de services : ...
-- Étapes de production : ...
-- Type d'emploi visé : ...
-- Étapes pour obtenir cet emploi : ...
+- Types de produits et de services : Jeu vidéos éléctronqique (DBD)
+- Étapes de production : idéation-préproduction-production-postproduction-opération
+- Type d'emploi visé : Game Balance Designer
+- Étapes pour obtenir cet emploi : compréhension de mécaniques de jeux, avoir un petit projet de jeu qui est balancé,bien analyser les données
 
 ## Conclusion
 
-- Mon profil en une phrase : ...
-- Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : ...
-- Mon action d'ici la fin de la session : ...
+- Mon profil en une phrase : Je suis un gars endormi avec un gros intérêt dans les jeux vidéos
+- Ce qui m'a surpris : Rien en particulier
+- Ma force principale et la faiblesse à travailler : Ma bonne compréhension de mécaniques et je dois travailler sur mon sommeil
+- Mon action d'ici la fin de la session : Passer ma session
 
 ## Ma capsule
 
