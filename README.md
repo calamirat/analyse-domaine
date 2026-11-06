@@ -42,11 +42,11 @@
 ## Les caractéristiques de mon domaine préféré
 
 - Types d'entreprises : Studios de développement
-- Exemple d'entreprise : Techland, Virtuos, etc
+- Exemple d'entreprise : Techland, Virtuos, Behaviour Interactive
 
 ![Behaviour Interactive](bhvr.png)
 
-(source de l'image : [...](https://www.gematsu.com/companies/behaviour-interactive))
+(source de l'image : [Gematsu](https://www.gematsu.com/companies/behaviour-interactive))
 
 - Types de produits et de services : Jeu vidéos éléctronqique (DBD)
 - Étapes de production : idéation-préproduction-production-postproduction-opération
@@ -62,4 +62,4 @@
 
 ## Ma capsule
 
-![Mon interface OBS](obs.png)
+![Mon interface OBS](photocapsule.png)
